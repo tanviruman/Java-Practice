@@ -1,7 +1,7 @@
-# REPO NAME
-![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/)
-![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/)
+# Java-Practice
+![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/Java-Practice)
+![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/Java-Practice)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/Java-Practice)
 
 
 ## Authors
